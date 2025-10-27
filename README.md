@@ -6,7 +6,7 @@
 
 The Phylogenetic Pipeline is a set of tools designed to construct phylogenetic trees using different methods, like consensus or supertree, that aim to automate the process of reconstructing species trees given a list of species of interest and relevant genomic sequences (more details in the main presentation file `phylo_prezi.pdf`).
 
-The benchmark set of species used in this task comes from the [article](https://www.funpecrp.com.br/gmr/year2015/vol14-3/pdf/gmr4626.pdf) by F. Póntigo, M. Moraga and S.V. Flores, *Molecular phylogeny and a taxonomic proposal for the genus Streptococcus*.
+The benchmark set of species used in this task comes from the [article](https://pubmed.ncbi.nlm.nih.gov/26400318/) by F. Póntigo, M. Moraga and S.V. Flores, *Molecular phylogeny and a taxonomic proposal for the genus Streptococcus*.
 
 ## Usage
 
