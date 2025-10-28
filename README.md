@@ -1,4 +1,4 @@
-# Phylogenetic Pipeline
+# Phylogenetic Pipeline (_phyloGen_)
 
 *by Younginn Park*
 
